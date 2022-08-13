@@ -1,6 +1,6 @@
 # HRS-code-for-Brain-communications-manuscript
 
-The content of this repository includes code and a Stata dataset used in the manuscript entitled: "Race, polygenic risk and their association with incident dementia among older US adults
+The content of this repository includes code and a Stata dataset used in the manuscript titled: "Race, polygenic risk and their association with incident dementia among older US adults
 
 May A. Beydoun1,*, †,#; Jordan Weiss2, † Sri Banerjee3; Hind A. Beydoun4; Nicole Noren Hooten1; Michele K. Evans1; Alan B. Zonderman1
 
@@ -28,7 +28,7 @@ Ware E, Gard, A., Schmitz, L., Faul, J. . HRS Polygenic Scores – Release 4.3 2
 FIGURES3_SUPPFIG2 is directly provided in this repository and can be downloaded as Stata dta file. 
 
 
-To run the Stata code, all data in 2.a. through 2.e should be placed in a sub-folder named HRS_PROJ/DATA, in *.dta format. 
+To run the Stata code, all data in 2.a. through 2.e should be placed in a sub-folder named HRS_PROJ/FINAL_DATA, in *.dta format. 
 An additional subfolder, named HRS_PROJ/OUTPUT_FINAL should be created to obtain most of the Output in *.smcl format. 
 Note that the Figures in *.gph format will initially appear in the DATA subfolder, which is the main directory. However, they can be moved to a different directory
 and used to create Figures 1-3, and supplementary Figures 1-2. The Stata journal scheme should be used instead of the Economist scheme where needed. Schemes can be modified using graph editor. 
