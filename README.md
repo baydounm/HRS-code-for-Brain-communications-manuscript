@@ -19,12 +19,17 @@ https://hrs.isr.umich.edu/about
 2.a. randhrs1992_2018v1: Can be downloaded from the HRS website, RAND longitudinal data: 
 2.b. trk2018tr_r: tracker file up to 2018, Can be downloaded from the HRS website. 
 2.c. pgenscore4e_r: PGS for european ancestry, can be downloaded from the HRS website. 
-2.d. pgenscore4a_r: PGS for African ancestry, can be downloaded from the HRS website. 
+2.d. pgenscore4a_r: PGS for African ancestry, can be downloaded from the HRS website.
+2.e. FIGURES3_SUPPFIG2: Results from Cox PH models for Model 7, Table 2 used to create Figures 3 and supplemental Figure 2.  
 
 Information about 2.c. and 2.d can be found in:
 Ware E, Gard, A., Schmitz, L., Faul, J. . HRS Polygenic Scores – Release 4.3 2006-2012 Genetic Data. Ann Arbor, MI: University of Michigan;2021.
 
+FIGURES3_SUPPFIG2 is directly provided in this repository and can be downloaded as Stata dta file. 
 
 
-
+To run the Stata code, all data in 2.a. through 2.e should be placed in a sub-folder named HRS_PROJ/DATA, in *.dta format. 
+An additional subfolder, named HRS_PROJ/OUTPUT_FINAL should be created to obtain most of the Output in *.smcl format. 
+Note that the Figures in *.gph format will initially appear in the DATA subfolder, which is the main directory. However, they can be moved to a different directory
+and used to create Figures 1-3, and supplementary Figures 1-2. The Stata journal scheme should be used instead of the Economist scheme where needed. Schemes can be modified using graph editor. 
 
