@@ -22,5 +22,9 @@ https://hrs.isr.umich.edu/about
 2.d. pgenscore4a_r: PGS for African ancestry, can be downloaded from the HRS website. 
 
 Information about 2.c. and 2.d can be found in:
+Ware E, Gard, A., Schmitz, L., Faul, J. . HRS Polygenic Scores – Release 4.3 2006-2012 Genetic Data. Ann Arbor, MI: University of Michigan;2021.
+
+
+
 
 
