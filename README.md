@@ -31,5 +31,5 @@ FIGURES3_SUPPFIG2 is directly provided in this repository and can be downloaded 
 To run the Stata code, all data in 2.a. through 2.e should be placed in a sub-folder named HRS_PROJ/FINAL_DATA, in *.dta format. 
 An additional subfolder, named HRS_PROJ/OUTPUT_FINAL should be created to obtain most of the Output in *.smcl format. 
 Note that the Figures in *.gph format will initially appear in the DATA subfolder, which is the main directory. However, they can be moved to a different directory
-and used to create Figures 1-3, and supplementary Figures 1-2. The Stata journal scheme should be used instead of the Economist scheme where needed. Schemes can be modified using graph editor. 
+and used to create Figures 2-3, and supplementary Figures 1-2. The Stata journal scheme should be used instead of the Economist scheme where needed. Schemes can be modified using graph editor. 
 
