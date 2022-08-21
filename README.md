@@ -1,6 +1,6 @@
 # HRS-code-for-Brain-communications-manuscript
 
-The content of this repository includes code and a Stata dataset used in the manuscript titled: "Race, polygenic risk and their association with incident dementia among older US adults
+The content of this repository includes code and a Stata dataset used in the manuscript titled: "Race, polygenic risk and their association with incident dementia among older US adults"
 
 May A. Beydoun1,*, †,#; Jordan Weiss2, † Sri Banerjee3; Hind A. Beydoun4; Nicole Noren Hooten1; Michele K. Evans1; Alan B. Zonderman1
 
